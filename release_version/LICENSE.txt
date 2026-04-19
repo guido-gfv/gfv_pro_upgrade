@@ -1,0 +1,67 @@
+LEGAL NOTICE AND LICENSE TERMS
+
+Effective as of the publication date shown in the accompanying version file.
+
+
+PART A. GFV PRO UPGRADE PACKAGING AND ORIGINAL GFV MATERIALS
+
+Copyright (c) Guido Floriani. All rights reserved.
+
+This license applies to GFV Pro Upgrade materials that are not already governed exclusively by the GNU General Public License under Part B. Such materials include, without limitation, installer scripts, documentation authored for GFV, the GFV name when used to identify this distribution, and any original non frontend assets expressly marked as GFV origin (the "GFV Materials").
+
+1. Grant
+
+Subject to Part B and Part C, you may install and run the GFV Materials for personal use or internal studio use, including commercial production, without paying a separate license fee to the author for those GFV Materials.
+
+You may share exact copies of the official GFV Pro Upgrade package with others at no charge.
+
+You may modify the GFV Materials for your own use.
+
+If you distribute a modified version of the GFV Materials, or a larger work that embeds or builds on the GFV Materials (a "GFV Derivative"), you must distribute that GFV Derivative at no charge and include this license file. You must clearly describe what you changed.
+
+2. Restrictions
+
+Only Guido Floriani may charge money for the GFV Materials as distributed under the GFV Pro Upgrade name, for support tied to selling those materials, or for any GFV Derivative offered as a product or paid service.
+
+You may not sell the GFV Materials or a GFV Derivative, even if you improved it.
+
+You may not offer the GFV Materials or a GFV Derivative inside a paid product or paid service aimed at third parties, unless Guido Floriani gives written permission.
+
+3. Ownership
+
+The GFV Materials remain the intellectual property of Guido Floriani. This license does not transfer ownership.
+
+4. No warranty for GFV Materials
+
+THE GFV MATERIALS ARE PROVIDED AS IS WITHOUT WARRANTY OF ANY KIND. TO THE MAXIMUM EXTENT PERMITTED BY LAW, GUIDO FLORIANI IS NOT LIABLE FOR ANY DAMAGES ARISING FROM USE OR INABILITY TO USE THE GFV MATERIALS.
+
+5. Contact for GFV licensing
+
+Email guido.3dartist@gmail.com
+LinkedIn https://www.linkedin.com/in/guido-floriani-venero-fx-td
+
+
+PART B. COMFYUI FRONTEND AND THIRD PARTY OPEN SOURCE SOFTWARE
+
+Portions of the user interface installed by this package are derived from or incorporate the ComfyUI frontend, which is subject to the GNU General Public License Version 3 (GPL 3.0).
+
+Copyright notices for the upstream project belong to the ComfyUI authors and contributors. The official source repository is maintained by the ComfyUI project.
+
+When you receive this package, the GPL applies to the corresponding frontend portions. You may run, study, share, and modify those portions under GPL 3.0. If you convey modified versions of the covered frontend object code to others, you must comply with GPL 3.0 including, where applicable, providing corresponding source or a written offer for source as described in that license.
+
+The full text of GPL 3.0 is widely published by the Free Software Foundation. You should retain all copyright notices and license texts supplied with any source or binary distribution you prepare.
+
+Nothing in Part A is intended to narrow your rights under GPL 3.0 for the portions of the software that are covered by GPL 3.0. In case of conflict regarding GPL covered portions, GPL 3.0 controls for those portions.
+
+
+PART C. TRADEMARKS AND NAMES
+
+"ComfyUI" and related marks are trademarks of their respective owners. This document does not grant any trademark license. GFV naming is used to identify this distribution and does not imply endorsement by upstream projects unless separately stated.
+
+
+PART D. SEVERABILITY
+
+If any provision of this document is held invalid, the remaining provisions continue to apply to the fullest extent permitted by law.
+
+
+END OF DOCUMENT

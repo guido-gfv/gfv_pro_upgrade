@@ -1,0 +1,24 @@
+GFV Pro Upgrade for ComfyUI
+Release bundle for public distribution
+
+Windows
+Use Windows 10 or Windows 11 64 bit. This installer only patches files on disk for the Comfy UI web frontend. It does not replace the Python backend.
+
+Comfy UI Desktop
+Tested with recent Comfy UI Desktop builds that serve the interface from
+%LOCALAPPDATA%\Programs\ComfyUI\resources\ComfyUI\web_custom_versions\desktop_app
+If your install lives elsewhere, use the manual target option in install.ps1.
+
+Comfy UI classic layout
+If you run Comfy from a virtual environment without Desktop, the script can install into comfyui_frontend_package static when that folder exists. Use the UsePipStatic switch.
+
+Frontend package lineage
+This web bundle is built from a Comfy UI frontend fork maintained for GFV features.
+Parent package version at build time was aligned with Comfy UI frontend 1.44.x family.
+Exact build stamp and git commit appear in the packager notes shipped with the developer tree.
+
+Python backend
+Any Comfy UI server version that works with the official frontend for your workflow should be fine. If Comfy updates ship a breaking frontend protocol, wait for a matching GFV bundle.
+
+After a Comfy UI Desktop self update
+Re run this installer if the official updater overwrites desktop_app back to stock.

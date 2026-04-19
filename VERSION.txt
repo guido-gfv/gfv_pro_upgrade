@@ -1,0 +1,4 @@
+GFV Pro frontend bundle
+Package (package.json): 1.44.4
+Git commit (ComfyUI_frontend): 9004dc4
+Built (folder pack): 2026-04-18
